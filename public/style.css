@@ -1,11 +1,35 @@
 body{
   padding: 0; 
-  margin: 0; 
-  background-color: #FFFFFF;
+  margin: 40px; 
+  background-image: url('https://wallpaperaccess.com/full/530683.jpg')
 } 
 
 canvas { 
   background: #171717; 
   display: block; 
   margin: 0 auto;
+}
+
+.wht {
+  background-color: #FFFFFF;
+}
+
+.blu {
+  background-color: #00AEFF;
+}
+
+.grn {
+  background-color: #1BFF00;
+}
+
+.org {
+  background-color: #FF9700;
+}
+
+.pnk {
+  background-color: #E800FF;
+}
+
+.red {
+  background-color: #ff0000;
 }
